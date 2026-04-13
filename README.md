@@ -4,7 +4,7 @@
 
 # Education
 
-* Bachelors of Science (Computer Technology), *YouTube University*, 2012-2016
+* Bachelors of Science (Computer Technology), *Meru University of science and technology*, 2012-2016
 
 # [Project 1: Crypto Sentiment Analysis](http://youtube.com/dataprofessor)
 ![alt text](andre-francois-mckenzie-iGYiBhdNTpE-unsplash.jpg)
